@@ -12,4 +12,4 @@ Q5) .gitignore should be committed. It needs to be tracked by Git so that everyo
 
 Q6) README.md moved from "Untracked files" to "Changes to be committed". In the three-places model, running git add README.md moved the file from the Working Directory into the Staging Area (Index), preparing it to be included in the next commit.
 
-Q7) 
+Q7) Git printed [master (root-commit) 3d74830] Lab work so far. It reported that 1 file changed and 1 insertion(+) was made.
