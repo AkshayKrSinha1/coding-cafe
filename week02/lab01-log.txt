@@ -1,0 +1,131 @@
+    1  cd
+    2  pwd
+    3  ls
+    4  ls-a
+    5  la -a
+    6  ls -a
+    7  ls
+    8  ls -a
+    9  -l
+   10  ls knowledge_map/
+   11  ls desktop/
+   12  ls -a
+   13  ls -l
+   14  mkdir
+   15  cd
+   16  cd path
+   17  cd desktop
+   18  cd C:\Users\aksha\OneDrive\Desktop
+   19  cd Users\aksha\OneDrive\Desktop
+   20  cd Desktop/
+   21  cd /mnt/c/Users/aksha/Desktop
+   22  mkdir coding-cafe
+   23  cd coding-cafe
+   24  mkdir week01/
+   25  mkdir week02/
+   26  cd ../week01
+   27  cd week02/
+   28  cd ../week01
+   29  cd coding-cafe
+   30  cd coding-cafe/
+   31  cd ..
+   32  cd week02
+   33  cd ..
+   34  cd week2
+   35  cd week02
+   36  notes.md
+   37  mkdir notes.md
+   38  touch notes.md
+   39  code notes.md 
+   40  cd ..
+   41  touch README.md
+   42  ls
+   43  ls -R coding-cafe
+   44  cd week02
+   45  code notes.md
+   46  ls -a
+   47  cd ..
+   48  ls -a
+   49  ls
+   50  ls -l
+   51  cd ..
+   52  ls coding-cafe/week02
+   53  cp README.md README-backup.md
+   54  cd coding-cafe
+   55  cp README.md README-backup.md
+   56  mv README-backup.md week01/
+   57  cd week01
+   58  mv README-backup.md old-readme.md
+   59  echo $PATH
+   60  which python3
+   61  which pip
+   62  which ls
+   63  pyton3
+   64  ls
+   65  cd
+   66  ls
+   67  pwd
+   68  ls
+   69  ls -a
+   70  cd Desktop/
+   71  mkdir coding-cafe
+   72  ls coding-cafe
+   73  pwd
+   74  ls
+   75  cd coding-cafe
+   76  mkdir wee01/
+   77  mkdir week02/
+   78  cd week02
+   79  touch notes.md
+   80  cd ..
+   81  touch README.md
+   82  ls
+   83  code notes.md
+   84  cd ~
+   85  ls coding-cafe/week02
+   86  cp README.md README-backup.md
+   87  cd coding-cafe
+   88  cp README.md README-backup.md
+   89  mv README-backup.md week01/
+   90  mv wee01 week01
+   91  mv README-backup.md week01/
+   92  cd week01
+   93  mv README-backup.md old-readme.md
+   94  ls
+   95  cd coding-cafe
+   96  cd ..
+   97  echo $PATH
+   98  code notes.md
+   99  which python3
+  100  which pip
+  101  which ls
+  102  pyton3
+  103  echo $PATH
+  104  python3-venv
+  105  sudo source .venv/bin/activate
+  106  sudo apt install python3.14
+  107  python3 -m venv .venv
+  108  apt install python3.14-venv
+  109  sudo apt install python3.14-venv
+  110  sudo add-apt-repository universe
+  111  sudo apt install python3.14-venv
+  112  source .venv/bin/activate
+  113  python3 -m venv .venv
+  114  ls -a
+  115  source .venv/bin/activate
+  116  which python3
+  117  pip list
+  118  pip install requests
+  119  pip list
+  120  deactivate
+  121  which python3
+  122  man 1$
+  123  man 1s
+  124  man ls
+  125  ls -h
+  126  man ls
+  127  ls -h
+  128  man man
+  129  history
+  130  python3
+  131  history > week02/lab01-log.txt
